@@ -8,10 +8,14 @@
   * [환경 준비](examples/env.md)
   * [connect.rs](examples/connect.rs/README.md)
     * [use](examples/connect.rs/use.md)
+    * [main](examples/connect.rs/main.md)
 
-* [단위테스트 익히기](undefined-3.md)
+* [단위테스트 익히기](unittest/README.md)
 
 * [실제 시스템 익히기](real/README.md)
   * [웹 서버](real/web-server.md)
   * [데이터베이스](real/database.md)
-  * [레디스](real/readis.md)
+  * [레디스](real/redis.md)
+
+# [팁](tip/README.md)
+* [깃북과 카고 공존](tip/gitbook_cargo_coexist.md)
