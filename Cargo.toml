@@ -3,4 +3,6 @@
 members = [
   "crates/sample_1",
   "crates/connect",
+  "crates/hello_tokio",
+  "crates/aa_get_started",
 ]
