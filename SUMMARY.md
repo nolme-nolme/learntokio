@@ -28,7 +28,7 @@
       * [The next generation Tokio Scheduler](internals/scheduler/tokio-scheduler/the-next-generation-tokio-scheduler.md)
     * [과제](internals/scheduler/undefined.md)
   * [코드 분석](undefined/undefined-1.md)
-* [비동기 러스트]()
+* [비동기 러스트](async_rust/README.md)
   *[시작하기](async_rust/getting_started.md)
     *[왜 비동기인가?](async_rust/why_async.md)
     *[비동기 러스트의 현재](async_rust/state_async_rust.md)
